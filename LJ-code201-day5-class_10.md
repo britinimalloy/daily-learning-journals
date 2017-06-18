@@ -1,0 +1,5 @@
+# LJ Code 201 - Day 5 (class 10, Friday 16June2017)
+
+### Whew! What a week!
+
+I think the first thing I learned is that Bird is awesome! A few minutes petting her and I could instantly feel my stress levels diminish. Pair programming is still awesome, and I am still in need of more planning before coding, but I'm getting slowly better at that. It's actually why I haven't been able to finish the cookie stand project and get the totals across the bottom working. I am getting better ideas but I need work on pseudocoding it so I can better figure out how to code it. Hopefully the stress from Jordan's visit has worn off, I'm working hard to first keep current then use my extra time (that I have to make as who actually has time??!? LOL) to finish past assignments and retool others to get some points back. I am not feeling like I'm struggling quite so much, although with all there is to make up to get enough points to pass the class I'm still feeling very under pressure. I'm trying to take decompression time, however, as I don't want to get burnt out and end up physically ill. I am doing my best to get stuff done and raise my grade.
