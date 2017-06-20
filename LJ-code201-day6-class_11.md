@@ -1,0 +1,5 @@
+# LJ Code 201 - Day 6 (class 11, Monday 19June2017)
+
+### And another day I couldn't finish my homework in lab...it's not possible to constantly pay an additional $5 for parking to stay late...I barely have time to breathe, eat, and sleep...much less check out public transportation...feeling quite frustrated
+
+Pseudocoding happened today but it still didn't help enough. By the time I got to the difficult part, trying to create objects and put the names/correct images just couldn't happen. Even trying to talk it through with someone didn't work, I just couldn't think straight. I kept losing my train of thought and forgetting what I was saying in the middle of saying it. Sadly, I haven't done regular coding in a few years so my brain seems to get easily burnt out and decides to quit working. I get help, think I know what I'm doing and how to tackle something then 5 minutes later I'm totally lost again. I miss code review. It was valuable time during morning lecture time when my brain is fresher and I could get help and come up with ideas without having to wait until lab when another assignment is looming over my head.
