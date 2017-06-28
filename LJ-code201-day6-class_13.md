@@ -1,1 +1,3 @@
 # LJ Code 201 - Entry 8 (class 16, Monday 26June2017)
+
+This has been a terrible week, I'm glad I went to the event but it put me further behind in my work. I wish this had been during a different time. I am hating on busmall, I'm still way behind and feeling like I won't make it...I hope I didn't just meet Microsoft and TLG people just to cement not catching up, failing out of the program, and then have shot myself in the foot for future dealings with both organizations...
